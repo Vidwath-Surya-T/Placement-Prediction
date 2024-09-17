@@ -13,9 +13,9 @@ The Student_ID column is removed, as it is not relevant for the prediction model
 <h3>Usage</h3> 
 <br/>
 <ul>  
-Loading the Dataset: Ensure the Placement.csv file is in the same directory as the code.
-Running the Code: Run the script, and it will:<br/>
-Train the model.<br/>
-Predict placement status on the test set.<br/>
-Display the accuracy and confusion matrix.
+<li>Loading the Dataset: Ensure the Placement.csv file is in the same directory as the code.
+Running the Code: Run the script, and it will:</li>
+<li>Train the model.</li>
+<li>Predict placement status on the test set.</li>
+<li>Display the accuracy and confusion matrix.</li>
 </ul>
